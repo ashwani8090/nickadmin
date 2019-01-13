@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+
+    >
+
+
+    <item  android:title="@string/orders"   android:id="@+id/order" android:checkable="true" android:icon="@drawable/ic_add_alert_black_24dp"/>
+  <item  android:title="Message"   android:id="@+id/message" android:checkable="true" android:icon="@drawable/ic_email_black_24dp"   />
+    <item  android:title="Home"  android:id="@+id/home" android:checkable="true" android:icon="@drawable/ic_home_black_24dp"/>
+
+
+
+</menu>
