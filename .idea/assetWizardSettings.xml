@@ -31,14 +31,6 @@
                                       </entry>
                                     </map>
                                   </option>
-                                  <option name="values">
-                                    <map>
-                                      <entry key="backgroundLayerName" value="ic_launcher_background" />
-                                      <entry key="foregroundImage" value="C:\Users\Ashwani thakur\Desktop\New folder\blur\nms.png" />
-                                      <entry key="foregroundLayerName" value="ic_launcher_foreground" />
-                                      <entry key="outputName" value="nmsimage" />
-                                    </map>
-                                  </option>
                                 </PersistentState>
                               </value>
                             </entry>

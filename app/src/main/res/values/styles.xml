@@ -4,7 +4,7 @@
     <style name="ThemeOverlay.AppCompat.Dark.ActionBar." parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">#081243</item>
-        <item name="colorPrimaryDark">#081243</item>
+        <item name="colorPrimaryDark">#0d2308</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
